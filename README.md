@@ -1,13 +1,13 @@
 
-------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
  ^___^
 |・ㅅ・|
-|っ　ｃ|          Indira Margarita Gómez Moreno
-|　　　|       Universidad Industrial de Santander
-|　　　|             Biología Comparada - II　　
+|っ　ｃ|                       Indira Margarita Gómez Moreno
+|　　　|                    Universidad Industrial de Santander
+|　　　|                          Biología Comparada - II　　
 |　　　|
  U ￣ U                                      
-------------------------------------------------------------        
+------------------------------------------------------------------------------------------------------      
                
 HELLO! Here you will find the script of my methods to my final proyect. 
 
